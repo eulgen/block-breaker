@@ -38,7 +38,7 @@ const ball = {
 };
 
 const blocks = [];
-const blockColors = ['#2BD054', '#B57C76', '#45B7D1', '#FFA07A', '#98D8C8', '#F7DC6F'];
+const blockColors = ['#2BD055', '#B57C76', '#45B7D1', '#FFA07A', '#98D8C8', '#F7DC6F'];
 
 function initBlocks() {
   blocks.length = 0;
